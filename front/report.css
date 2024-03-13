@@ -1,0 +1,57 @@
+.title {
+    color: white;
+}
+
+.search.bigsearch {
+    height: 12.5rem;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    position: relative;
+}
+
+
+.map-container {
+    position: relative;
+    margin: 2rem auto;
+    width: 80%;
+}
+
+#map {
+    height: 18.75rem; /* 수정: 지도의 높이를 적절한 값으로 조정 */
+    width: 100%;
+    z-index: 0; /* 수정: z-index 추가 */
+    margin-top: 1rem;
+}
+
+.search-container {
+    margin: auto;
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    z-index: 1; /* 수정: z-index 추가 */
+}
+
+.search {
+    width: 100%;
+    margin-top: 0.5rem;
+}
+
+.xi-maker {
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    transform: translateY(-50%);
+    font-size: 1.3rem;
+    color: #EF9E3E;
+    cursor: pointer;
+}
+
+
+#i_answer > div {
+    height: 9.375rem;
+    overflow: scroll
+}
+
+footer {
+    height: 8rem !important;
+}

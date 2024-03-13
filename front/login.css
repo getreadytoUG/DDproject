@@ -1,0 +1,26 @@
+.container{
+    margin-top: 4.5rem;
+}
+
+.button{
+    margin-top: 3.7rem;
+}
+
+.input_form{
+    padding-top: 1.5rem;
+    margin: 0.625rem auto;
+}
+
+#find_id{
+    margin: auto;
+    text-align: center;
+    margin-top: 1.875rem;
+}
+
+label{
+    font-size: 1.3rem;
+}
+
+#regist{
+    margin-top: 1.25rem;
+}
