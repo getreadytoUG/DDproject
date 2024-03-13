@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909804459058",
+    "project_id": "ddpservice-96343",
+    "storage_bucket": "ddpservice-96343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909804459058:android:92247c31d368d71176d82b",
+        "android_client_info": {
+          "package_name": "com.ddproject.service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOY8kLReGk98iGNrObF2VoXM9AvzfWMdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
