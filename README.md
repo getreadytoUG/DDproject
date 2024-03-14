@@ -8,7 +8,7 @@
 ##### - '이동의 꿈'는 장애인들이 대중교통을 보다 쉽게 이용할 수 있도록 도와주는 어플리케이션입니다. <br/><br/><br/>
 
 ## 👨‍💻 My Role in Process
-###### 기획, 우선순위 알고리즘 구현, NodeJS 서버 구현, PPT제작, 지도 API 이용
+###### 기획, 프론트 구현, NodeJS 서버 구현, PPT제작, 리액트 네이티브 앱 구현, 팀장
 
 <img width="100%" alt="image" src="https://github.com/getreadytoUG/DDproject/assets/127275992/66820f9a-fd19-47bb-923b-097996e46636">
 
@@ -57,3 +57,23 @@
 
 ------------------------------
 <img width="100%" alt="image" src="https://github.com/getreadytoUG/DDproject/assets/127275992/fec7e358-98a0-4c5d-8372-8f5ad7b8d30a">
+
+<hr>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-EE4C2C?style=flat&logo=react&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-009688?style=flat&logo=nodedotjs&logoColor=4479A1"/>&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-F37626?style=flat&logo=notion&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FF9900?style=flat&logo=firebase&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Expo-569A31?style=flat&logo=expo&logoColor=white"/>&nbsp;&nbsp;
+
+  
+</p>
