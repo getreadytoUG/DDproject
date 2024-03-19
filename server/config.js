@@ -32,5 +32,9 @@ export const config = {
         apiKey: required('API_KEY'),
         apiSecret: required('API_SECRET'),
         fromNum: required('FROM_NUMBER')
+    },
+    // 공공 데이터포털 api 키
+    public : {
+        apiKey: required('PUBLIC_DATA_API_KEY')
     }
 }

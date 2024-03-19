@@ -5,15 +5,17 @@ import express from "express";
 import fetch from "node-fetch";
 import { parseString } from "xml2js";
 import { promisify } from "util";
+import { config } from "../config.js"
 
 const app = express();
 app.use(cors());
 const useParse = promisify(parseString);
+const publicKey = config.public.apiKey;
 
 export async function gybus_and_subway_transfer(startX, startY, endX, endY) {
     try {
         let li = [];
-        const link = `http://ws.bus.go.kr/api/rest/pathinfo/getPathInfoByBusNSub?ServiceKey=KAyp/hPyUMMYcCnJrWIbGDxK7cOFEqB3LvjDI5ucUaBXcugRIDmWSYjwst6d78QMtq7O22pkuiM8OeNfzaJXIA==&startX=${startX}&startY=${startY}&endX=${endX}&endY=${endY}`
+        const link = `http://ws.bus.go.kr/api/rest/pathinfo/getPathInfoByBusNSub?ServiceKey=${publicKey}&startX=${startX}&startY=${startY}&endX=${endX}&endY=${endY}`
         
         const response = await fetch(link);
         const xmldata = await response.text();
