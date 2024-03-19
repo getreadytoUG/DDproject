@@ -34,7 +34,7 @@ export const config = {
         fromNum: required('FROM_NUMBER')
     },
     // 공공 데이터포털 api 키
-    public : {
+    publicdata : {
         apiKey: required('PUBLIC_DATA_API_KEY')
     }
 }

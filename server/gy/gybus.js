@@ -10,7 +10,7 @@ import { config } from "../config.js"
 const app = express();
 app.use(cors());
 const useParse = promisify(parseString);
-const publicKey = config.public.apiKey;
+const publicKey = config.publicdata.apiKey;
 
 export async function gybus(startX, startY, endX, endY) {
     try {

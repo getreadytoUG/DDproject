@@ -13,7 +13,7 @@ const url = config.db.host;
 const client = new MongoClient(url);
 const database = client.db("MoveOfDream");
 const collection = database.collection("busstops");
-const publicKey = config.public.apiKey;
+const publicKey = config.publicdata.apiKey;
 
 
 export async function getBestBusDriver(busStopId, busroot) {
